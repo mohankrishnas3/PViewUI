@@ -4,18 +4,23 @@
 
 - **Mohan Sunkara**
   - *Affiliation*: Old Dominion University, USA
+  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Mohan%20Sunkara-blue)](https://scholar.google.com/citations?user=MbQDa7wAAAAJ&hl)
 
 - **Yash Prakash**
   - *Affiliation*: Old Dominion University, USA
+  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yash%20Prakash-blue)](https://scholar.google.com/citations?user=DOlm7Q8AAAAJ&hl)
 
 - **Hae-Na Lee**
   - *Affiliation*: Stony Brook University, USA
+  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Hae--Na%20Lee-blue)](https://scholar.google.com/citations?user=CbmN5FwAAAAJ&hl)
 
 - **Sampath Jayarathna**
   - *Affiliation*: Old Dominion University, USA
+  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Sampath%20Jayarathna-blue)](https://scholar.google.com/citations?user=OkEoChMAAAAJ&hl)
 
 - **Vikas Ashok**
   - *Affiliation*: Old Dominion University, USA
+  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Vikas%20Ashok-blue)](https://scholar.google.com/citations?user=P0AAAAJ&hl)
 
 ## Research Paper Overview
 
