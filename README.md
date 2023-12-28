@@ -1,23 +1,20 @@
-# PView - Customizable Forum Thread Viewer for Blind Users
+# Enabling Customization of Discussion Forums for Blind Users
 
-## Overview
+## Research Paper Overview
 
-Online discussion forums play a vital role in facilitating global discussions across diverse topics, yet their usability for blind users remains underexplored. Our project, PView, addresses this gap by introducing a browser extension designed to enhance the interaction experience of blind users with forum conversations, specifically tailored for screen reader technology.
+This project is based on the research paper titled "Enabling Customization of Discussion Forums for Blind Users." The paper addresses the usability challenges blind users face while interacting with online discussion forums and introduces the PView browser extension as a solution to enhance their experience.
 
-### Problem Statement
+### Abstract
 
-Blind users often face challenges while navigating forum threads due to redundant content and limited customization options. In an interview study, participants expressed frustration with the interaction experience, motivating the development of PView.
+Online discussion forums have become integral components of various websites, facilitating global discussions on diverse topics. However, little attention has been given to the usability of these forums for blind users who rely on screen reader technology. The paper highlights the challenges faced by blind users due to redundant content and the lack of customization options in forum conversations. As a solution, the PView browser extension enables blind users to customize forum thread content in real time, improving their interaction experience significantly.
 
-### Solution - PView Features
+### Research Paper Link
 
-PView offers a solution by empowering blind users to customize forum thread content in real time, enhancing their interaction experience. Key features include:
+The research paper "Enabling Customization of Discussion Forums for Blind Users" can be accessed [here](https://doi.org/10.1145/3593228).
 
-- **Content Customization**: Blind users can explicitly hide irrelevant posts.
-- **Real-time Filtering**: PView automatically filters subsequent similar posts in real time, improving thread navigation.
+## Project Overview
 
-## User Interface Template (Front-end Only)
-
-The provided HTML and CSS files constitute the front-end user interface template for PView. Please note that this template is for visualization purposes and does not include functional back-end integration.
+This repository contains the front-end UI template for PView, showcasing the user interface design. Please note that this template is for visualization purposes only and does not include functional back-end integration.
 
 ### Files Included
 
@@ -35,6 +32,4 @@ To visualize the front-end user interface of PView:
 1. **Clone the Repository**: Clone or download this repository.
 2. **Open `index.html`**: Open the `index.html` file in a web browser to preview the PView interface.
 
-## Contributing, License, and Further Details
-
-(Include other sections as previously described in the template.)
+For a comprehensive understanding of the research and technical details, refer to the [research paper](https://doi.org/10.1145/3593228).
