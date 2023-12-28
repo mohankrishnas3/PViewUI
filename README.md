@@ -32,8 +32,6 @@ Online discussion forums serve as crucial platforms for global discourse on vari
 
 PView empowers blind users to selectively tailor their forum experience by enabling the explicit hiding of irrelevant posts. Furthermore, the extension employs real-time algorithms to detect and filter subsequent posts resembling the hidden content, enhancing navigation efficiency within the conversation threads. Our user study involving blind participants demonstrated a significant enhancement in usability, reduced workload, and increased satisfaction compared to the conventional forum interaction.
 
-This repository contains the front-end UI template for PView, showcasing the user interface design. Please note that this template is for visualization purposes only and does not include functional back-end integration.
-
 ### Research Paper Link
 
 ### Research Paper Link
