@@ -1,5 +1,22 @@
 # Enabling Customization of Discussion Forums for Blind Users
 
+## Authors
+
+- **Mohan Sunkara**
+  - *Affiliation*: Old Dominion University, USA
+
+- **Yash Prakash**
+  - *Affiliation*: Old Dominion University, USA
+
+- **Hae-Na Lee**
+  - *Affiliation*: Stony Brook University, USA
+
+- **Sampath Jayarathna**
+  - *Affiliation*: Old Dominion University, USA
+
+- **Vikas Ashok**
+  - *Affiliation*: Old Dominion University, USA
+
 ## Research Paper Overview
 
 This project is based on the research paper titled "Enabling Customization of Discussion Forums for Blind Users." The paper addresses the usability challenges blind users face while interacting with online discussion forums and introduces the PView browser extension as a solution to enhance their experience.
