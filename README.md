@@ -20,7 +20,7 @@
 
 - **Vikas Ashok**
   - *Affiliation*: Old Dominion University, USA
-  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Vikas%20Ashok-blue)](https://scholar.google.com/citations?user=P0AAAAJ&hl)
+  - [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Vikas%20Ashok-blue)](https://scholar.google.com/citations?user=Of8dNP0AAAAJ&hl)
 
 ## Research Paper Overview
 
